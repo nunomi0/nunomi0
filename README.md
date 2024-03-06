@@ -18,5 +18,8 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://github.com/nunomi0)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunomi0&show_icons=true&theme=github_dark)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nunomi0)](https://solved.ac/nunomi0)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunomi0&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunomi0&layout=compact&theme=dark)
