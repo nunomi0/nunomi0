@@ -22,4 +22,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nunomi0)](https://solved.ac/nunomi0)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunomi0&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunomi0&layout=compact&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunomi0&layout=compact&theme=tokyonight)
