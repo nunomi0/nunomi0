@@ -19,4 +19,4 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunomi0&show_icons=true&theme=github_dark)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/nunomi0)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nunomi0)](https://solved.ac/nunomi0)
