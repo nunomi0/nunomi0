@@ -7,11 +7,14 @@
 <br>
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,java,figma,git)](https://skillicons.dev)
 
-### GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nunomi0&show_icons=true&theme=github_dark&hide_border=true&border_radius=10)
-
-### Algorithm & Problem Solving
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nunomi0)](https://solved.ac/nunomi0)
+<div align="center">
+  <a href="https://github.com/nunomi0">
+    <img src="https://github-readme-stats.vercel.app/api?username=nunomi0&show_icons=true&theme=github_dark&hide_border=true&border_radius=10" height="160" />
+  </a>
+  <a href="https://solved.ac/nunomi0">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nunomi0" height="160" />
+  </a>
+</div>
 
 ### Contact
 📬 ykys1@naver.com
