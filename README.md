@@ -1,16 +1,26 @@
-### Hi there 👋
-  
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)](https://github.com/nunomi0)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)](https://github.com/nunomi0)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://github.com/nunomi0)
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://github.com/nunomi0)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/nunomi0)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/nunomi0)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://github.com/nunomi0)
+<div align="center">
+<h1>Hi, I'm Lee Yukyung</h1>
+<p>사용자 경험을 중요시하는,<br>세상을 발전시키고 싶은 프론트엔드 개발자 이유경입니다.</p>
 
+<br/>
 
+### Languages and Tools
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vite,html,css)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,figma,git)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunomi0&show_icons=true&theme=github_dark)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nunomi0)](https://solved.ac/nunomi0)
+<br/>
 
+### GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nunomi0&show_icons=true&theme=github_dark&hide_border=true&border_radius=10)
+
+<br/>
+
+### Algorithm & Problem Solving
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nunomi0)](https://solved.ac/nunomi0)
+
+<br/>
+
+### Contact
+📬 ykys1@naver.com
