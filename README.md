@@ -1,5 +1,6 @@
 <div align="center">
-<p>사용자 경험을 중요시하는,<br>세상을 발전시키고 싶은 프론트엔드 개발자 이유경입니다.</p>
+  
+### 사용자 경험을 중요시하는, <br/> 세상을 발전시키고 싶은 프론트엔드 개발자 이유경입니다.
 
 ### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,vite,html,css)](https://skillicons.dev)
